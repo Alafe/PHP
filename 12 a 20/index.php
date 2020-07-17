@@ -10,7 +10,7 @@ fazendo aulas
 17 - dowhile
 18 - array
 19 - foreach
-20 - furction
+20 - function
 */
 //aula 12
 define('nome', 'Alafe');
