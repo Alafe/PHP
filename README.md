@@ -31,3 +31,17 @@
 15 - POST
 
 16 - GET
+
+17 - data e hora
+
+18 - ler e gravar em txt
+
+19 - requisitando arquivos
+
+20 - criptografias
+
+21 - cookie
+
+22 - session
+
+23 - try e catch
