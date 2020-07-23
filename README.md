@@ -1,31 +1,33 @@
 # Aulas do curso de PHP do básico ao intermediário
 
-9 - imprimindo texto
+1 - imprimindo texto
 
-10 - variáveis e comentários
+2 - variáveis e comentários
 
-11 - operadores matemáticos
+3 - operadores matemáticos
 
-12 - constante
+4 - constante
 
-13 - if, elseif e else
+5 - if, elseif e else
 
-14 - switch
+6 - switch
 
-15 - while
+7 - while
 
-16 - for
+8 - for
 
-17 - dowhile
+9 - dowhile
 
-18 - array
+10 - array
 
-19 - foreach
+11 - foreach
 
-20 - function
+12 - function
 
-21 - função com valor por referencia
+13 - função com valor por referencia
 
-22 - funções em PHP
+14 - funções do PHP
 
-23 - POST
+15 - POST
+
+16 - GET

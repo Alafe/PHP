@@ -1,8 +1,11 @@
-<?php 
+<?php
+//variavel 
 $nome = "Alafe";
 
-//print retorna 1
-$v = print "Ola, mundo!! ";
+//imprimindo txt na tela
+// print é uma função que sempre retorna 1
+$valor = print "Ola, mundo!!<br>";
+echo "$valor<br>";
 
 //echo não retorna nada
 echo "Ola, Mundo!!<br>";

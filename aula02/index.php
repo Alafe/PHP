@@ -1,4 +1,10 @@
-<?php 
+<?php
+/*
+comentário usando mais de uma linha
+*/
+//comentário usando uma linha
+
+//a partir da versão 7.4 o php aceita tipagem
 $nome = "Alafe"; //string
 $sexo = 'M'; //char
 $idade = 22; //int
