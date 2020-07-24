@@ -5,7 +5,7 @@ $cep = str_replace("-", "", $cep);
 
 /*
 "http://correiosapi.apphb.com/cep/" . $cep
-nâo funciono
+nâo funciona
 */
 
 $str = file_get_contents("http://localhost/PHP/aula26/cep.php/?cep=" . $cep);
