@@ -45,3 +45,9 @@
 22 - session
 
 23 - try e catch
+
+24 - convertendo um array em JSON
+
+25 - convertendo um JSON em array
+
+26 - Buscando dados com o CEP(tive que fazer a req local para deixa funcional)
