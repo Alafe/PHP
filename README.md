@@ -51,3 +51,9 @@
 25 - convertendo um JSON em array
 
 26 - Buscando dados com o CEP(tive que fazer a req local para deixa funcional)
+
+27 - envio de dados POST com AJAX
+
+28 - requisições GET com AJAX
+
+29 - consultando dados do CEP via AJAX(tive que fazer a req local para deixa funcional)
